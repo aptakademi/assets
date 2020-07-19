@@ -1,11 +1,15 @@
 
 Hope you enjoy your new logo, here are the people that
 made your beautiful logo happen :)
-font name: Asul-Bold
-font link: https://fonts.google.com/specimen/Asul
-font author: Mariela Monsalve
-font author site: http://www.mukamonsalve.com.ar/
+font name: kelson_rg
+font link: http://www.fontfabric.com/kelson-sans/
+font author: Bruno Mello
+font author site: http://www.myfonts.com/person/Bruno_Mello/
 
 
-{"bg":"transparent","icon":"#488eff","font":"#2e3034","slogan":"#424448"}
+
+fontColor: {"hex":"#0076DD"}
+bgColor: {"hex":"transparent"}
+
+
       
